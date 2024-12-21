@@ -1,6 +1,6 @@
 <div align='center'>
-<img src='./MYlogo.png' alt='myimage' width='220px' />
-  <h1></h1>
+<img src='./MYlogo.png' alt='myimage' width='320px' />
+  <h1>MY web dev</h1>
 </div>
 <div align='center'
   <p>This is Parham Mohammadi! A Junior Developer🧑‍💻</p>
