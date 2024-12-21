@@ -1,7 +1,6 @@
-<div align='center'>
-  <img src='./MYlogo.png' alt='myimage' width='220px' />
-</div>
-<hr>
+
+<img align='center' src='./MYlogo.png' alt='myimage' width='220px' />
+
 <div align='center'>
   <p>This is Parham Mohammadi! A Junior Developer🧑‍💻</p>
 </div>
