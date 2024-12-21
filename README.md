@@ -2,8 +2,8 @@
 <img src='./MYlogo.png' alt='myimage' width='320px' />
   <h1></h1>
 </div>
-<div align='center'
-  <p>This is Parham Mohammadi! A Junior Developer🧑‍💻</p>
+<div align='center'>
+  <h3>This is Parham Mohammadi! A Junior Developer🧑‍💻</h3>
 </div>
 
 <h1>My Experience</h1>
