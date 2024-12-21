@@ -3,7 +3,7 @@
   <h1></h1>
 </div>
 <div align='center'>
-  <h4>This is Parham Mohammadi! A Junior Developer🧑‍💻</h4>
+  <h3>This is Parham Mohammadi! A Junior Developer🧑‍💻</h3>
 </div>
 
 <h2>My Experience</h2>
