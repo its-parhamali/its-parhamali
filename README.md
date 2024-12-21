@@ -6,7 +6,7 @@
   <p>This is Parham Mohammadi! A Junior Developer🧑‍💻</p>
 </div>
 
-<h3>My Experience</h3>
+<h1>My Experience</h1>
 
 <img src='https://skillicons.dev/icons?i=py,html,css,js,php,github,vscode' alt='skills'/>
 
